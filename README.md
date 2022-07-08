@@ -13,9 +13,7 @@ For overview, I've built very small card project which included some HTML & CSS 
 
 ## Screenshot
 
-![](/screenshot/solution-html.png) - This is a solution code for HTML
-![](/screenshot/solution-css-1.png)
-![](/screenshot/solution-css-2.png) - These are the CSS solutions
+Solution codes of HTML & CSS for project is in the screenshot folder
 
 ## My process
 
